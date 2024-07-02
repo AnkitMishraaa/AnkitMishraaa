@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">Empowering Decision-Making with Data-Driven Insights</h3>
 
-- 🌱 I’m currently learning **OpenCV,Machine learning**
+- 🌱 I’m currently learning **OpenCV, Machine learning**
 
 - 👯 I’m looking to collaborate on **Data Scientist Projects**
 
 - 👨‍💻 All of my projects are available at [https://ankitmishraaa.github.io/Portfolio/](https://ankitmishraaa.github.io/Portfolio/)
 
-- 💬 Ask me about **Data Analyst, Data Science, Data Management,**
+- 💬 Ask me about **Data analysis, Data Science, Data Management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
