@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">Empowering Decision-Making with Data-Driven Insights</h3>
 
